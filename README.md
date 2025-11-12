@@ -15,7 +15,7 @@ I enjoy using machine learning, deep learning, and AI to model complex biologica
 - **How Physics Approaches Complexity** – Studying complex systems applied to biology and the environment  
 - **Neurons: From Models to Consciousness** – Philosophical perspectives on artificial intelligence, inspired by projects like Blue Brain, exploring reasoning and learning in artificial systems
 
-**Master 2 – Double Degree: AgroParisTech (IODAA – "Information to Decision through Analysis and Learning") & Université Paris-Saclay (AMI2B – "Computational Biology: Analysis, Modeling and Engineering of Biological and Medical Information")**
+**Master 2 – Double Degree: AgroParisTech Engineering School ([IODAA](https://www.agroparistech.fr/formations-ingenieur/3a-3e-annee-ingenieur-dominante-linformation-decision-par-lanalyse-lapprentissage) – "Information to Decision through Analysis and Learning") & Paris-Saclay University ([AMI2B](https://www.universite-paris-saclay.fr/en/education/master/bioinformatics/computational-biology/m2-biologie-computationnelle-analyse-modelisation-et-ingenierie-de-linformation-biologique-et-medicale) – "Computational Biology: Analysis, Modeling and Engineering of Biological and Medical Information")**
 - **Advanced Artificial Learning** – Advanced Machine Learning applied to biological and environmental case studies  
 - **Reproducible Hackathon Project for Large-Scale Omics Data** – Applied project in bioinformatics and high-dimensional datasets  
 - **Data Mining & Knowledge Discovery** – Extracting knowledge from complex biological databases  
