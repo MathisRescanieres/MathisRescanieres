@@ -132,4 +132,6 @@ I enjoy using machine learning, deep learning, and AI to model complex biologica
 
 ---
 
-✨ I’m always eager to **collaborate, and explore new ideas in data science and marine sciences**!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MathisRescanieres&show_icons=true&theme=graywhite" alt="Stats of my GitHub"/>
+</p>
