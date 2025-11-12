@@ -1,7 +1,7 @@
 # Hi, I'm Mathis Rescanières!
 
 I'm an engineering student passionate about data science and Marine Sciences, with experience at the intersection of biology, computing, and data analysis.  
-After a Master 1 in Engineering & Health and a year of research internships applying data science to marine biology, I’m currently pursuing a Master 2 double degree at AgroParisTech & Université Paris-Saclay.  
+After a Master 1 in Engineering & Health and a year of research internships applying data science to marine biology, I’m currently pursuing a Master 2 double degree at [AgroParisTech Engineering School](https://www.agroparistech.fr/en) & [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/).    
 
 I enjoy using machine learning, deep learning, and AI to model complex biological systems and tackle real-world problems.
 
